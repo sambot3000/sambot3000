@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sambot3000
+- 👋 Hi, I’m Sam Hashemi
 - 👀 I’m interested in: AI stuff
 - 🌱 I’m currently learning: How to live the life
 - 💞️ I’m looking to collaborate on: Cool things
